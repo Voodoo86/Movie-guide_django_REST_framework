@@ -237,8 +237,5 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
-
 # Custom
 # Project users_uploads
-logo.png
-readme.md
